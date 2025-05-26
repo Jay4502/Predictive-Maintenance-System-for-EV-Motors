@@ -12,3 +12,10 @@ EV motors are critical, high-value components. Unexpected failures can lead to s
     3. On-Device Anomaly Detection
     4. Proactive Alerting
     5. Optional Data Logging
+
+# IV. Expected Outcomes:
+    1. A functional prototype of an embedded predictive maintenance system on an STM32 platform.
+    2. Demonstrated ability to acquire, process, and analyze sensor data in real-time.
+    3. Proof of concept for anomaly detection using thresholding and trend analysis.
+    4. An effective alerting system for early fault detection.
+    5. A foundation for future expansion into more advanced prognostics and communication capabilities.
